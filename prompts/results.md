@@ -2,35 +2,64 @@
 Primeiramente, vamos analisar os dados e classificá-los para fornecer as informações solicitadas.
 
 Produtos mais vendidos por país
-Austrália
+
+### Austrália
+
 Produto	Quantidade Vendida	Porcentagem (%)
+
 NEW MEGANIUM RG CubeXX	15	29.41
+
 NEW MEGANIUM RG28XX	10	19.61
-Reino Unido (UK)
+
+### Reino Unido (UK)
+
 Produto	Quantidade Vendida	Porcentagem (%)
+
 NEW MEGANIUM RG35XX	13	52.00
+
 MEGANIUM RG353M	6	24.00
-Alemanha
+
+### Alemanha
+
 Produto	Quantidade Vendida	Porcentagem (%)
+
 NEW MEGANIUM RG28XX	14	30.43
+
 NEW MEGANIUM RG CubeXX	9	19.57
-Canadá
+
+###Canadá
+
 Produto	Quantidade Vendida	Porcentagem (%)
+
 NEW MEGANIUM RG40XXV	12	28.57
+
 MEGANIUM RG353M	7	16.67
-França
+
+### França
+
 Produto	Quantidade Vendida	Porcentagem (%)
+
 NEW MEGANIUM RG35XX	13	21.67
+
 NEW MEGANIUM RG28XX	12	20.00
-EUA
+
+### EUA
+
 Produto	Quantidade Vendida	Porcentagem (%)
+
 MEGANIUM RG353M	5	35.71
+
 NEW MEGANIUM RG CubeXX	4	28.57
-Japão
+
+### Japão
+
 Produto	Quantidade Vendida	Porcentagem (%)
+
 NEW MEGANIUM RG40XXV	5	25.00
+
 MEGANIUM RG353M	5	25.00
-Observações
+
+### Observações
 Austrália: Os produtos "NEW MEGANIUM RG CubeXX" e "NEW MEGANIUM RG28XX" são os mais vendidos, representando juntos 49.02% das vendas totais.
 
 Reino Unido (UK): "NEW MEGANIUM RG35XX" e "MEGANIUM RG353M" são os mais vendidos, representando juntos 76.00% das vendas totais.
@@ -91,10 +120,8 @@ Produto menos vendido: MEGANIUM RG353M com 19 unidades.
 Cálculo da Porcentagem
 Para calcular a porcentagem do produto menos vendido:
 
-Porcentagem = (Quantidade do produto menos vendido) x 100
-                    Quantidade total vendida
+Porcentagem = (Quantidade do produto menos vendido / Quantidade total vendida) x 100
 
-Porcentagem = (19) x 100 = 12.03%
-              158
+Porcentagem = (19 / 158) x 100 = 12.03%
 
 Portanto, o produto menos vendido, MEGANIUM RG353M, representa aproximadamente 12.03% de todas as vendas nesta base de dados.
