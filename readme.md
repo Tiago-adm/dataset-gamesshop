@@ -11,3 +11,9 @@
 - [X] Transformar dados de vendasem informações relevantes para a fabricante
 - [X] Quais são os produtos mais populares em cada país
 - [X] Como otimizar o processo de transporte e logística até o momento da venda
+
+# Arquivos adicionados
+
+- processed_data/ Meganium_Sales_Data_Tiago_adm.xlsx
+- prompts/ copilot_prompts.md (versão gratuita)
+  
