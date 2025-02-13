@@ -17,4 +17,5 @@
 - processed_data/ Meganium_Sales_Data_Tiago_adm.xlsx
 - processed_data/ Meganium_Sales_Data_Tiago_adm.txt (para uso no Copilot gratuito que não aceita csv ou envio de mais de um arquivo)
 - prompts/ copilot_prompts.md (versão gratuita)
+- prompts/ results.md
   
